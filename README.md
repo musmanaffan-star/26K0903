@@ -1,7 +1,5 @@
-# 26K0903
-![Profile Picture](![iba_pic_notjpg](https://github.com/user-attachments/assets/xxxxxxx))
-
-# Usman [Your Last Name]
+![Profile Picture](https://github.com/user-attachments/assets/xxxxxxx)
+# Muhammad Usman Ali
 
 ## Education
 **BSCS** — *FAST National University, Karachi*
