@@ -19,3 +19,10 @@
    - [x] Finished Naruto
    - [ ] Catch up on One Piece
 3. Trading
+
+## Hobbies & Extracurriculars
+1. Gaming
+2. Anime
+   - [x] Finished Naruto
+   - [ ] Catch up on One Piece
+3. Trading
