@@ -1,5 +1,5 @@
 # 26K0903
-![Profile Picture](https://your-image-url-here.jpg)
+![Profile Picture](![iba_pic_notjpg](https://github.com/user-attachments/assets/xxxxxxx))
 
 # Usman [Your Last Name]
 
